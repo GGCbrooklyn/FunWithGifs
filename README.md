@@ -18,5 +18,5 @@ Fun with API's
 
 - Click the 'New Search' on the top center of the screen to conduct a new search.
 
-- You can view saved gifs.
+- You can view saved gifs!
 
